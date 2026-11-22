@@ -3,4 +3,4 @@ Logo for BMAtariST a bare metal Atari ST, STE, TT and Falcon emulator by [jhonna
 
 Made by Akze on Inkscape.
 
-![alt text](https://github.com/[akze-rulez]/[BMAtariST-Logo]/blob/[main]/Screenshot.jpg?raw=true)
+![alt text](https://github.com/[akze-rulez]/[BMAtariST-Logo]/tree/[main]/Screenshot.jpg?raw=true)
